@@ -1,5 +1,5 @@
 ---
-layout: Lebenslauf
+layout: cv
 title: Alexander Kerbers Lebenslauf
 ---
 ## Persönliche Daten
